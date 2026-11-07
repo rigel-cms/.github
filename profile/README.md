@@ -1,4 +1,4 @@
-<a href="https://rigelcms.dev"><img src="https://rigelcms.dev/rigel-logo.png" alt="Rigel CMS logo" width="80" height="80"></a>
+<a href="https://rigelcms.dev"><img src="https://raw.githubusercontent.com/rigel-cms/.github/main/profile/rigel-logo.png" alt="Rigel CMS logo" width="80" height="80"></a>
 
 # Rigel CMS
 
