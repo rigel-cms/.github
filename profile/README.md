@@ -18,6 +18,6 @@ Edit website copy and Markdown posts, preview changes on prepared pages, and pub
 
 ## Support development
 
-Built by [Alex Zappa](https://github.com/reatlat) at [FreshJuice](https://freshjuice.dev).
+Built independently by [Alex Zappa](https://alex.zappa.dev/).
 
 If Rigel is useful to you, [sponsor Alex on GitHub](https://github.com/sponsors/reatlat) to support continued development.
